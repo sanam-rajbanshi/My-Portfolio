@@ -1,2 +1,2 @@
-# My-Portfolio
-My portfolio website using html css and js
+# Portfolio
+ My portfolio Website
